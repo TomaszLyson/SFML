@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tomek\desktop\sfml\sfmltemplate\sfmltemplate\main.cpp(341): warning C4305: "+=": obcięcie z "double" do "float"
+c:\users\tomek\desktop\sfml\sfmltemplate\sfmltemplate\main.cpp(342): warning C4305: "+=": obcięcie z "double" do "float"
+  SFMLTemplate.vcxproj -> C:\Users\Tomek\Desktop\SFML\SFMLTemplate\Debug\SFMLTemplate.exe
